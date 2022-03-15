@@ -5,7 +5,8 @@ Long Short Term Memory networks – usually just called “LSTMs” – are a sp
 LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods of time is practically their default behavior, not something they struggle to learn!
 for detail understanding follow : https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
-code explaination :
+Code explaination :
+
 pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language.
 
